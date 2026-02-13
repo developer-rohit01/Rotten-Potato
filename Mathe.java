@@ -2,8 +2,8 @@
 public class Mathe {
 
   public static void main(String[] args) {
-    int num1 = 2;
-    int num2 =3;
+    double num1 = 2.0;
+    double num2 =3.0;
     
 
     // Rounding
