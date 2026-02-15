@@ -3,7 +3,7 @@ public class Mathe {
 
   public static void main(String[] args) {
     double num1 = 2.0;
-    double num2 =3.0;
+    double num2 =3.6;
     
 
     // Rounding

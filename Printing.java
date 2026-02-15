@@ -9,6 +9,6 @@ public class Printing {
     //   , = comma grouping separator
     // (   = negative numbers are enclosed in ()
     // space = display a minus if negative, space if possible
-    System.out.printf("Hello, My name is %s and I am %d years old. I scored \n% .2f marks in the exam.", name, age, marks);
+    System.out.printf("Hello, My name is %s and I am %d years old. I scored \n% ,.2f marks in the exam.", name, age, marks);
   }
 }
