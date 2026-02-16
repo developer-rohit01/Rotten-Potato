@@ -7,11 +7,11 @@ public class Randomcoin {
     double Num;
     boolean coin;
     coin=random.nextBoolean();
-    Num=random.nextDouble(1.0, 5.0);
+//    Num=random.nextDouble(1.0, 5.0);
     number = random.nextInt(1, 7);
 
     System.out.println("Random Number: "+number);
-    System.out.println("Random Double: "+Num);
+//    System.out.println("Random Double: "+Num);
 
     if(coin){
       System.out.println("HEADS");
