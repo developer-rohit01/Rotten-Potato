@@ -5,8 +5,8 @@ public class First {
 
      int age = 10;
      char grade = 'A';
-     double price = 19.99;
-     boolean student = true;
+     double price = 19.98;
+     boolean student = false;
      String name = "Rohit Rajbhar";
 
      System.out.println("Your Name: "+ name + "\nYour Age: "+ age + "\nYour Grade: " +grade + "\nYour Price: " +price + "\nStudent Check: "
