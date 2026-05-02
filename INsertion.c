@@ -5,7 +5,7 @@
 int main(){
 
   //inserion of array elements 
-  int ar[6];
+  int ar[8];
   printf("Enter 6 elements of the array: \n");
   for(int i=0;i<6;i++){
     printf("Enter the element %d: ",i+1);
